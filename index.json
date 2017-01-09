@@ -1,6 +1,6 @@
 [
   {
-    name: "test",
-    file: "test.json"
+    "name": "test",
+    "file": "test.json"
   }
 ]
