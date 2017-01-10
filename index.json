@@ -1,6 +1,6 @@
 [
   {
-    "name": "test",
-    "file": "test.json"
+    "name": "Test Mission",
+    "description": "This is a test mission."
   }
 ]
