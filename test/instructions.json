@@ -1,2 +1,44 @@
 [
+    {
+        "type": "gimbalMove",
+        "feature": "yaw",
+        "direction": "clock",
+        "angel": 30.0
+    },
+    {
+        "type": "wait",
+        "interval": 1.0
+    },
+    {
+        "type": "cameraShoot"
+    },
+    {
+        "type": "gimbalMove",
+        "feature": "yaw",
+        "direction": "counterclock",
+        "angel": 0.0
+    },
+    {
+        "type": "wait",
+        "interval": 1.0
+    },
+    {
+        "type": "cameraShoot"
+    },
+    {
+        "type": "gimbalMove",
+        "feature": "yaw",
+        "direction": "counterclock",
+        "angel": 30.0
+    },
+    {
+        "type": "wait",
+        "interval": 1.0
+    },
+    {
+        "type": "cameraShoot"
+    },
+    {
+        "type": "photoStitching"
+    }
 ]
