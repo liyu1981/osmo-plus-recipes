@@ -3,7 +3,8 @@
         "type": "askDeviceIndex"
     },
     {
-        "type": "cameraShootAt"
+        "type": "cameraShootAt",
+        "syncEndpoint": "http://didi-ads.com/osmoplus/next.php"
     },
     {
         "type": "photoUpload",
