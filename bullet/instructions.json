@@ -6,6 +6,7 @@
         "type": "cameraShootAt"
     },
     {
-        "type": "photoUpload"
+        "type": "photoUpload",
+        "endpoint": "http://didi-ads.com/osmoplus/upload.php"
     }
 ]
