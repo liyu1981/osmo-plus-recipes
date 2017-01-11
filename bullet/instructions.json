@@ -4,10 +4,10 @@
     },
     {
         "type": "cameraShootAt",
-        "syncEndpoint": "http://didi-ads.com/osmoplus/next.php"
+        "syncEndpoint": "http://www.didi-ads.com/osmoplus/next.php"
     },
     {
         "type": "photoUpload",
-        "endpoint": "http://didi-ads.com/osmoplus/upload.php"
+        "endpoint": "http://www.didi-ads.com/osmoplus/upload.php"
     }
 ]
