@@ -1,0 +1,11 @@
+[
+    {
+        "type": "askDeviceIndex"
+    },
+    {
+        "type": "cameraShootAt"
+    },
+    {
+        "type": "photoUpload"
+    }
+]
